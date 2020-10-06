@@ -11,8 +11,7 @@
 ---
 
 Recent Blog Activities
-<!--UPDATE-README:START-->
-<!--UPDATE-README:END-->
+<!--START_SECTION:activity-->
 
 ---
 
