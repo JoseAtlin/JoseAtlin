@@ -10,10 +10,11 @@
 
 ---
 
-Recent Blog Activities
+
+### Recent Blog Activities
 <!--START_SECTION:activity-->
 
----
 
+---
 
 <img align="left" alt="JoseAtlin github stats" src="https://github-readme-stats.vercel.app/api?username=JoseAtlin&show_icons=true&theme=radical">
