@@ -10,7 +10,4 @@
 ---
 
 
-
----
-
-<img align="center" alt="JoseAtlin github stats" src="https://github-readme-stats.vercel.app/api?username=JoseAtlin&show_icons=true&theme=radical">
+<img align="centre" alt="JoseAtlin github stats" src="https://github-readme-stats.vercel.app/api?username=JoseAtlin&show_icons=true&theme=radical">
