@@ -14,6 +14,7 @@
   <img align="left" alt="Jose Atlin | hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
 </a>
 
+<br/>
 
 - 🌱 I'm currently pursuing my final year B.tech Degree.
 - 🌱 At [Christ College of Engineering](https://cce.edu.in)
