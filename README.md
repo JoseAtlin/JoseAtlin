@@ -12,7 +12,7 @@
 <a href="https://www.hackerrank.com/jose_atlin">
   <img align="left" alt="Jose Atlin | hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
 </a>
-<a href="https://www.leetcode.com/jose_atlin">
+<a href="https://www.leetcode.com/joseatlin">
   <img align="left" alt="Jose Atlin | leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>
 
