@@ -1,6 +1,5 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-
 <a href="https://twitter.com/jose_atlin">
   <img align="left" alt="Jose Atlin | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -14,7 +13,10 @@
   <img align="left" alt="Jose Atlin | hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
 </a>
 
-<br/>
+
+<br />
+<br />
+
 
 - 🌱 I'm currently pursuing my final year B.tech Degree.
 - 🌱 At [Christ College of Engineering](https://cce.edu.in)
