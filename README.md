@@ -25,8 +25,7 @@
 - 🚧 Coding Enthusiast
 - ✅ Fav topics - Python, Data analysis, Competitive Programming
 - ⚡ Fun fact - I love sports
-- 📝 [My Resume](https://drive.google.com/file/d/1UBDhTWnSu-Lh834lkPVAieqNJdQ45koS/view)
-
+<!-- - 📝 [My Resume](https://drive.google.com/file/d/1UBDhTWnSu-Lh834lkPVAieqNJdQ45koS/view) -->
 
 
 **Languages and Tools:**  
